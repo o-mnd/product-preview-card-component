@@ -44,6 +44,6 @@ Users should be able to:
 ## Author
 
 
-- Frontend Mentor - [Alalagi](https://https://www.frontendmentor.io/profile/o-mnd)
+- Frontend Mentor - [Alalagi](https://www.frontendmentor.io/profile/o-mnd)
 
 
