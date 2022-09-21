@@ -23,12 +23,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](product-preview-card-component\Screenshots\screenshot_1.jpg)
-![](product-preview-card-component\Screenshots\screenshot_2.jpg)
-![](product-preview-card-component\Screenshots\screenshot_3.jpg)
+![](./screenshot.jpg)
 
-#
-#
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
