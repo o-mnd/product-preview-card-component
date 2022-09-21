@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://o-mnd.github.io/product-preview-card-component.github.io/)
+- Live Site URL: [Live site URL here](https://o-mnd.github.io/product-preview-card-component.github.io/)
 
 ## My process
 
