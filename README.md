@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live site URL here](https://o-mnd.github.io/product-preview-card-component.github.io/)
+- Solution URL:(https://www.frontendmentor.io/solutions/html-and-pure-css-solution-to-product-preview-card-component-challenge-4kgLOClAU4)
+- Live Site URL:(https://o-mnd.github.io/product-preview-card-component.github.io/)
 
 ## My process
 
